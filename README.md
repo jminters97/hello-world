@@ -14,3 +14,7 @@ public class HelloWorld{
          System.out.println(answer = a * b + b);
      }
 }
+sh-4.3$ javac HelloWorld.java                                                                                 
+sh-4.3$ java -Xmx128M -Xms16M HelloWorld                                                                                           
+33.0523                                                                                                                   
+sh-4.3$                                                                                                                          
